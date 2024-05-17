@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">cargearviewer</string>
+    <string name="main_current_gear">Current Gear:</string>
+</resources>
